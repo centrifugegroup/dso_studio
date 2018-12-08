@@ -3,7 +3,7 @@ Welcome to DevSecOps Studio Project
 
 [![Build Status](https://travis-ci.org/teacheraio/DevSecOps-Studio.svg?branch=master)](https://travis-ci.org/teacheraio/DevSecOps-Studio)
 
-DevSecOps Studio is one of its kind, self contained DevSecOps environment/distribution to help individuals in learning DevSecOps concepts. It takes lots of efforts to setup the environment for training/demos and more often, its error prone when done manually. DevSecOps Studio is easy to get started, mostly automatic and battle tested during our Free Practical DevSecOps Course at https://www.teachera.io/devsecops-course/
+DevSecOps Studio is one of its kind, self contained DevSecOps environment/distribution to help individuals in learning DevSecOps concepts. It takes lots of efforts to setup the environment for training/demos and more often, its error prone when done manually. DevSecOps Studio is easy to get started, mostly automatic and battle tested. 
 
 DevSecOps Studio project aims to reduce the time to bootstrap the environment and help you in concentrating on learning/teaching DevSecOps practices with the following features.
 
@@ -16,12 +16,6 @@ DevSecOps Studio project aims to reduce the time to bootstrap the environment an
 7. Static tools like bandit, brakeman, windbags, gitrob, gitsecrets
 8. Security Monitoring using ELK stack. 
 
-
-> **Note:**
-
-> - We use this repo as companion to our Free [Practical DevSecOps course](https://www.teachera.io/devsecops-course/).
-
-> - If you wish to join our free course, please click on __Join the course__ in the above link.
 
 ## How do I get set up? ###
 
@@ -61,8 +55,6 @@ Go grab some coffee while DevSecOps Studio does its job.
 
 Yes, that's it, you just setup entire DevSecOps environment with three commands :)
 
-
-Go ahead and read Practical DevSecOps Lessons on the [wiki](https://github.com/teacheraio/DevSecOps-Studio/wiki)
 
 ### Installation video
 [![asciicast](https://asciinema.org/a/LGCa3te9yXhVLDCRpL2TtxzHa.svg)](https://asciinema.org/a/LGCa3te9yXhVLDCRpL2TtxzHa)
@@ -254,6 +246,3 @@ Utilities:| Git, Vim, curl, wget,
 
 DevSecOps Studio uses some of the ansible roles from [Jeff](https://github.com/geerlingguy)
 
-## Who do I talk to?
-
-* If you have any questions regarding this repo, please contact Mohammed A. Imran @secfigo and Raghunath G @raghunath24
